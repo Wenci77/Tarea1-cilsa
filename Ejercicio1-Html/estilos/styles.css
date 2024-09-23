@@ -58,10 +58,13 @@ body{
 
 .contenedor{
 	background-color: #90AFC5;
-    padding: 45px; 
+    padding: 45px;
+    border-color: #000000; 
+    border: 1px solid;
     border-radius: 10px; 
     max-width: 400px;
     width: 400px;
+
 }
 
 .label{
@@ -107,7 +110,8 @@ h1{
 
 button {
     border: 2px;
-    border-color: #000000;
+    border-color: #000000; 
+    border: 1px solid;
     border-radius: 5px;
     color: #ffff;
     background-color: #336b87; 
@@ -124,6 +128,7 @@ button {
 button:hover {
     background-color: #763626 ; 
 }
+
 
 
 
